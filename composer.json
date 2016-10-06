@@ -1,0 +1,14 @@
+{
+    "name": "laravelselect2/select2",
+    "require": {
+        "select2/select2": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bharat",
+            "email": "bharat99bharat@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
